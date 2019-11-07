@@ -1,0 +1,31 @@
+{
+  "name": "@clark/ember-template-lint-config",
+  "version": "0.0.0",
+  "description": "Clark's config for ember-template-lint",
+  "main": "index.js",
+  "repository": "https://github.com/ClarkSource/ember-template-lint-config",
+  "author": "Jan Buschtöns <jan.buschtoens@clark.de> (https://jan.buschtoens.me)",
+  "license": "ISC",
+  "keywords": [
+    "ember-template-lint",
+    "ember-template-lint-plugin",
+    "ember-template-lint-config",
+    "hbs",
+    "handlebars",
+    "htmlbars"
+  ],
+  "scripts": {
+    "lint:js": "eslint ."
+  },
+  "files": [
+    "configs",
+    "known-helpers.js"
+  ],
+  "devDependencies": {
+    "@clark/eslint-config-node": "^1.15.1",
+    "eslint": "^6.6.0"
+  },
+  "peerDependencies": {
+    "ember-template-lint": "^1.8.1"
+  }
+}
