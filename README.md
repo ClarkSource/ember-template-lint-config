@@ -84,3 +84,17 @@ The following rules are disabled:
 
 [no-implicit-this]: https://github.com/ember-template-lint/ember-template-lint/blob/master/docs/rule/no-implicit-this.md
 [no-action]: https://github.com/ember-template-lint/ember-template-lint/blob/master/docs/rule/no-action.md
+
+## Q & A
+
+### Why remove `ember-cli-template-lint`?
+
+`ember-cli-template-lint` is a wrapper around the actual `ember-template-lint`,
+that integrates it into the linting pipeline of `ember-cli`. We strongly agree
+with [RFC #121 "Remove `ember-cli-eslint`"][rfc-121] and believe that the
+linting pipeline, as it is implemented in `ember-cli`, is hacky and should not
+run alongside the browser tests.
+
+Instead we run all our lint jobs as extra steps in CI.
+
+[rfc-121]: https://github.com/emberjs/rfcs/blob/master/text/0121-remove-ember-cli-eslint.md
