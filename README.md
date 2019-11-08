@@ -57,11 +57,11 @@ Don't forget to run `yarn lint:hbs` in CI!
 
 ## Usage
 
-This package exports two configurations you can extends from.
+This package exports two configurations you can extend from.
 
 ### `clark:octane`
 
-This is the recommended default configuration to use. Tit extends the official
+This is the recommended default configuration to use. It extends the official
 [`octane` config][config-octane] and makes the following changes to it:
 
 [config-octane]: https://github.com/ember-template-lint/ember-template-lint/blob/master/lib/config/octane.js
