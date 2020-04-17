@@ -25,20 +25,20 @@
   dependencies:
     eslint-plugin-import-helpers "^1.0.2"
 
-"@clark/eslint-config-node@^1.24.2":
-  version "1.24.2"
-  resolved "https://registry.yarnpkg.com/@clark/eslint-config-node/-/eslint-config-node-1.24.2.tgz#9216aa4faf0caeb1ccddbe62ff5af5ff8168522b"
-  integrity sha512-8aBi+l8dJ0+6W6PyqQ36hvsXsx45JPbQWMxSd/98kuxNibjuTNGPos8BCBZKx8P+99D+TXbmHgQO7khffa+xkg==
+"@clark/eslint-config-node@^1.24.3":
+  version "1.24.3"
+  resolved "https://registry.yarnpkg.com/@clark/eslint-config-node/-/eslint-config-node-1.24.3.tgz#3bb10053dfe3c706868e63d0c14bed5c8b93907c"
+  integrity sha512-AGoyfJsvCIw9kldgdSmcwml1kaVuyWFACS9hZGkncTVwQ1LYjAcrOEyK+oTZN36BLi3Wv027STeVLFY1AqOIvA==
   dependencies:
-    "@clark/eslint-config" "^1.24.2"
+    "@clark/eslint-config" "^1.24.3"
     "@clark/eslint-config-node-order-imports" "^1.19.0"
     eslint-plugin-node "^11.1.0"
     lodash.merge "^4.6.2"
 
-"@clark/eslint-config@^1.24.2":
-  version "1.24.2"
-  resolved "https://registry.yarnpkg.com/@clark/eslint-config/-/eslint-config-1.24.2.tgz#7ac2e7cd8d17a74ea63e7f7094fdbdcdc7f17c64"
-  integrity sha512-YLiTbYG1v7dB2csw3dV4IYoONugZlNLYL9V3JvD4bdXojMMweJyWG7adbGzeH1pzMZzO+BLfFcV6gKA2jvo40g==
+"@clark/eslint-config@^1.24.3":
+  version "1.24.3"
+  resolved "https://registry.yarnpkg.com/@clark/eslint-config/-/eslint-config-1.24.3.tgz#a4f5b2b720fa9a302d9be993f63a3e1222f3f14d"
+  integrity sha512-GbkkkT2bKSu31lNBwx0e8Nm7nr1v1BYT6+SHzwHMYRzBkVm7kTryNw0T+yV7OOLMutl4zo12hVM1FjNN/hk2ng==
   dependencies:
     eslint-config-airbnb-base "^14.1.0"
     eslint-config-prettier "^6.10.1"
