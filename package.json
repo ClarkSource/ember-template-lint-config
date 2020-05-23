@@ -23,7 +23,7 @@
   ],
   "devDependencies": {
     "@clark/eslint-config-node": "^1.24.4",
-    "eslint": "^7.0.0"
+    "eslint": "^7.1.0"
   },
   "peerDependencies": {
     "ember-template-lint": "^1.8.1"
