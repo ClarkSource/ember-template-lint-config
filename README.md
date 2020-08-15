@@ -8,7 +8,7 @@
 
 # @clark/ember-template-lint-config
 
-![Node.js CI](https://github.com/ClarkSource/ember-template-lint-config/workflows/Node.js%20CI/badge.svg)
+[![Node.js CI](https://github.com/ClarkSource/ember-template-lint-config/workflows/Node.js%20CI/badge.svg)](https://github.com/ClarkSource/ember-template-lint-config/actions)
 [![npm version](https://badge.fury.io/js/@clark%2Fember-template-lint-config.svg)](http://badge.fury.io/js/@clark%2Fember-template-lint-config)
 [![Download Total](https://img.shields.io/npm/dt/@clark%2Fember-template-lint-config.svg)](http://badge.fury.io/js/@clark%2Fember-template-lint-config)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
