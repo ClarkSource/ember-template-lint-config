@@ -18,28 +18,29 @@
     esutils "^2.0.2"
     js-tokens "^4.0.0"
 
-"@clark/eslint-config-node-order-imports@^1.26.5":
-  version "1.26.5"
-  resolved "https://registry.yarnpkg.com/@clark/eslint-config-node-order-imports/-/eslint-config-node-order-imports-1.26.5.tgz#d2e12f7a8dd92532f2c0f85984c52830a1434856"
-  integrity sha512-BvAtq83tPk7QCXXxzz+p3ryel+aDo6yp/gcbVT4xbnPnkkz5inF/BEF/D7my4db+vdGdBrcEW9OlmwBWtlvwgw==
+"@clark/eslint-config-node-order-imports@^1.28.0":
+  version "1.28.0"
+  resolved "https://registry.yarnpkg.com/@clark/eslint-config-node-order-imports/-/eslint-config-node-order-imports-1.28.0.tgz#dbc09119956b97829800a69e7139e27e27448161"
+  integrity sha512-/6jx3F5PdKMcJmVafjgMuY4SU0NAjGYTNcvb8u0T7ho9uIM2uSzl2C3gSsZ8JhUI9B4256hza0EXLL04w/9bvA==
   dependencies:
     eslint-plugin-import-helpers "^1.1.0"
 
-"@clark/eslint-config-node@^1.26.5":
-  version "1.26.5"
-  resolved "https://registry.yarnpkg.com/@clark/eslint-config-node/-/eslint-config-node-1.26.5.tgz#8fd12638d9d0c556d792b4415802f1dc2200e2eb"
-  integrity sha512-d01ePMyHvSXTrvtGwSEYsajBjg14AIVsjfgevmQIadGR1tupjO6AFCpdWUKOWO02YakvPVdXZqHwWhlj4LjV8g==
+"@clark/eslint-config-node@^1.28.0":
+  version "1.28.0"
+  resolved "https://registry.yarnpkg.com/@clark/eslint-config-node/-/eslint-config-node-1.28.0.tgz#57328a3661f1e864638c2e60759a2fca1a045072"
+  integrity sha512-eDsHN4dr6ikQA5t5W65cJ8GlKTXnNs0LSuR2SV20I16PfZszuEEPIqUP9TyFRFPfEEAStJagpRH1ufVB0QiF/w==
   dependencies:
-    "@clark/eslint-config" "^1.26.5"
-    "@clark/eslint-config-node-order-imports" "^1.26.5"
+    "@clark/eslint-config" "^1.28.0"
+    "@clark/eslint-config-node-order-imports" "^1.28.0"
     eslint-plugin-node "^11.1.0"
     lodash.merge "^4.6.2"
 
-"@clark/eslint-config@^1.26.5":
-  version "1.26.5"
-  resolved "https://registry.yarnpkg.com/@clark/eslint-config/-/eslint-config-1.26.5.tgz#bb7122cbb08c72b53407dcf5355061200ee432fb"
-  integrity sha512-njqOoUSyvwObqFn0BrA7TLApRaQORo7AmUcv8nrn9El+BNrMR8JDEA1PvVoK+Ch7df8Qv0cHrY83A9ImhyIbbA==
+"@clark/eslint-config@^1.28.0":
+  version "1.28.0"
+  resolved "https://registry.yarnpkg.com/@clark/eslint-config/-/eslint-config-1.28.0.tgz#015d4f3d73b297e87799117905537341af8df9d2"
+  integrity sha512-15LnVLVOQQF4A5oAI61GYT60ykn6ToL4z+cnLmL/lkFvp2Bz2ytkh2ve8WYufdHJBoAGOmpF+POQ7800yc9Yog==
   dependencies:
+    "@clark/prettier-config" "^1.28.0"
     eslint-config-airbnb-base "^14.2.0"
     eslint-config-prettier "^6.11.0"
     eslint-config-xo-space "^0.25.0"
@@ -48,6 +49,11 @@
     eslint-plugin-prettier "^3.1.4"
     eslint-plugin-unicorn "^21.0.0"
     prettier "^2.0.5"
+
+"@clark/prettier-config@^1.28.0":
+  version "1.28.0"
+  resolved "https://registry.yarnpkg.com/@clark/prettier-config/-/prettier-config-1.28.0.tgz#81b22641ecbc17bb3f8e47550196b895816e7b2c"
+  integrity sha512-SbL4r8HAskbw1z5jjW/GFf75rnLnKGd/9IOeGYq0cnbnbYdl88jp5Anvlp7aUMlJN5aqtkztcxpJeQ6a8DB7Lw==
 
 "@types/color-name@^1.1.1":
   version "1.1.1"
