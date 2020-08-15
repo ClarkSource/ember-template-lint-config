@@ -22,7 +22,7 @@
     "known-helpers.js"
   ],
   "devDependencies": {
-    "@clark/eslint-config-node": "^1.28.0",
+    "@clark/eslint-config-node": "^1.28.1",
     "eslint": "^7.7.0"
   },
   "peerDependencies": {
