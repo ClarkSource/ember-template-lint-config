@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://www.clark.de/de/jobs">
+    <br><br><br><br><br>
+    <img alt="CLARK" src="./docs/assets/clark.svg" height="40">
+    <br><br><br><br><br>
+  </a>
+</p>
+
 # @clark/ember-template-lint-config
 
 ![Node.js CI](https://github.com/ClarkSource/ember-template-lint-config/workflows/Node.js%20CI/badge.svg)
