@@ -15,7 +15,8 @@
     "htmlbars"
   ],
   "scripts": {
-    "lint:js": "eslint ."
+    "lint:js": "eslint .",
+    "test": "true"
   },
   "files": [
     "configs",
