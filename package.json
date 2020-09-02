@@ -26,7 +26,7 @@
     "@clark/eslint-config-node": "^1.28.2",
     "@clark/prettier-config": "^1.28.2",
     "ember-template-lint": "^2.11.0",
-    "eslint": "^7.8.0"
+    "eslint": "^7.8.1"
   },
   "peerDependencies": {
     "ember-template-lint": "^2.11.0"
