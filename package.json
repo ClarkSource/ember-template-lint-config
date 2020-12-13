@@ -23,7 +23,7 @@
     "known-helpers.js"
   ],
   "devDependencies": {
-    "@clark/eslint-config-node": "^1.28.2",
+    "@clark/eslint-config-node": "^2.0.0",
     "@clark/prettier-config": "^2.0.0",
     "ember-template-lint": "^2.15.0",
     "eslint": "^7.15.0"
