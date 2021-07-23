@@ -25,11 +25,11 @@
   "devDependencies": {
     "@clark/eslint-config-node": "^2.2.0",
     "@clark/prettier-config": "^2.2.0",
-    "ember-template-lint": "^3.5.0",
+    "ember-template-lint": "^3.5.1",
     "eslint": "^7.31.0"
   },
   "peerDependencies": {
-    "ember-template-lint": "^3.5.0"
+    "ember-template-lint": "^3.5.1"
   },
   "prettier": "@clark/prettier-config"
 }
