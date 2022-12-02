@@ -13,7 +13,6 @@
 [![Download Total](https://img.shields.io/npm/dt/@clark%2Fember-template-lint-config.svg)](http://badge.fury.io/js/@clark%2Fember-template-lint-config)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![CLARK Open Source](https://img.shields.io/badge/CLARK-Open%20Source-%232B6CDE.svg)](https://www.clark.de/de/jobs)\
-[![Dependabot enabled](https://img.shields.io/badge/dependabot-enabled-blue.svg?logo=dependabot)](https://dependabot.com/)
 [![dependencies Status](https://david-dm.org/ClarkSource/ember-template-lint-config/status.svg)](https://david-dm.org/ClarkSource/ember-template-lint-config)
 [![devDependencies Status](https://david-dm.org/ClarkSource/ember-template-lint-config/dev-status.svg)](https://david-dm.org/ClarkSource/ember-template-lint-config?type=dev)
 
